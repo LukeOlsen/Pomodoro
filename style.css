@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to right, #BFACC2 , #333);
+    text-align: center;
+  }
+  
+  .container {
+    margin: 100px auto;
+    max-width: 600px;
+    height: 300px;
+    width: 350px;
+    background-color: linear-gradient(to right, #BFACC2 , #333);
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.9), 0 8px 25px 0 rgba(0, 0, 0, 0.7);
+  }
+  
+  #headerText{
+    margin: 100px 200px;
+    height: 100px;  
+  }
+  
+  #section{
+    margin: 100 auto;
+  }
+  
+  button{
+    height: 50px;
+    width: 100px;
+  }
+  
+  button:hover{
+    background-color: grey;
+  }
